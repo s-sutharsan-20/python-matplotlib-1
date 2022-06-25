@@ -1,2 +1,2 @@
 # python-matplotlib
-This repository contains matplotlib  python programs 
+Python programs made using matplotlib will be uploaded in this repo 
